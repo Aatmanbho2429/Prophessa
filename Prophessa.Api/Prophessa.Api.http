@@ -1,0 +1,6 @@
+@Prophessa.Api_HostAddress = http://localhost:5217
+
+GET {{Prophessa.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
